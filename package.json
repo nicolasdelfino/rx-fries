@@ -1,0 +1,30 @@
+{
+  "name": "redux-fries",
+  "version": "0.0.395",
+  "description": "redux-fries, lookup middleware for subscribing to actions",
+  "keywords": [
+    "redux",
+    "middleware",
+    "action subscribe",
+    "redux-fries",
+    "callback"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "redux-logger": "3.0.6",
+    "redux-fries": "1.0.0",
+    "redux": "3.6.0",
+    "react-emoji-render": "0.4.0",
+    "react-dom": "15.4.2",
+    "react": "15.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
